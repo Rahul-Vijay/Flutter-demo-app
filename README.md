@@ -1,5 +1,7 @@
 ## Flutter Demo App
 
+[<img src="https://flutter.io/images/catalog-widget-placeholder.png" width="150" height="100">](http://flutter.io)
+
 #### Built using flutter and Dart
 
 ##### Install the flutter sdk and get the dart & flutter plugins for your IDE
